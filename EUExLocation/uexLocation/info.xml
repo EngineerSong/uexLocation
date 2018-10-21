@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <uexplugins>
-  <plugin uexName="uexLocation" version="3.0.32" build="32">
-    <info>32: 添加定位权限检测回调，并修复getAddressByType方法定位不准的问题</info>
+  <plugin uexName="uexLocation" version="3.0.32.1" build="32.1">
+    <info>32.1: 中远集运暂用版本，增加plist配置权限</info>
+    <build>32: 添加定位权限检测回调，并修复getAddressByType方法定位不准的问题</build>
     <build>31: 移除默认的定位权限配置</build>
     <build>30: getAddressByType兼容String</build>
     <build>29: 增加getAddressByType</build>

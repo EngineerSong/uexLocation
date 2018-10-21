@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UexKeyValues</key>
+	<dict>
+		<key>NSLocationWhenInUseUsageDescription</key>
+		<string>COSCO SHIPPING Lines needs to get your location information, so that the APP can provide local features for different countries or regions</string>
+		<key>NSPhotoLibraryUsageDescription</key>
+		<string>need access your photos to upload the shipping documents</string>
+		<key>NSCameraUsageDescription</key>
+		<string>need access your camera to take photos and upload the shipping documents</string>
+	</dict>
+</dict>
+</plist>
